@@ -1,0 +1,91 @@
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+    overflow-x: hidden;
+}
+
+
+.blueboxtop{
+    background-color: darkblue;
+    width: 2000px;
+    margin-top: -25px;
+
+}
+
+.blueboxbottom{
+    background-color: darkblue;
+    padding: 10px;
+    width: 2000px;
+    position: fixed;
+    bottom: 0;
+}
+
+.title{
+    color: orange;
+    padding-left: 510px;
+    font-size: 40px;
+    font-family: Arial;
+    -webkit-text-stroke: 2px black;
+}
+
+.aboutext{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Arial", sans-serif;
+    padding-left: 200px;
+}
+
+.instructions{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Arial", sans-serif;
+    padding-left: 800px;
+}
+
+.backhome{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Arial", sans-serif;
+    padding-left: 550px;
+}
+
+.whitext{
+    color: white;
+    padding-left: 500px;
+}
+
+.button{
+    background-color: red;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    font-family: "Arial";
+    margin-left: 550px;
+}
+
+#log {
+    position: relative;
+    left: 130px;
+    background-color: #D3D3D3;
+}
+
+#input {
+    position: relative;
+    left: 130px;
+    background-color: #D3D3D3;
+}
+
+.sansserif{
+    font-family: Arial;
+}
+
+.space{
+    padding-left: 550px;
+}
